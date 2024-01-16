@@ -6,7 +6,7 @@ Dragon Bot is an auction and points system manager for MMO's such as Everquest, 
 
 ## Features
 
-- Open and silent auction system.  Handles bids from players, announces the winner, and automatically adds the item to the DKP database.
+- Open and silent auction system.  Handles bids from players, displays item stats (if available), announces the winner, and automatically adds the item to the DKP database.
 - Auction Archive to view past auctions (deletes every 30 days).
 - Customizable Auction options such as minimum bid, maximum bid, and minimum attendance.
 - Easily give players earned DKP with a simple command.  Split raids are supported, custom channels can be entered to give earned DKP to players in multiple channels with one command.
