@@ -14,7 +14,7 @@ Dragon Bot is an auction and points system manager for MMO's such as Everquest, 
 - DKP menu. Players can access their stats and view the stats of others in the roster as well as items, events, and adjustments.
 - Each game has its own DKP database.  Switch between games seamlessly.
 - GDKP option for GDKP runs inside or outside of the guild.
-- Dual DKP option for "boxes" to spend on alternate characters.
+- A second DKP pool option for alternate characters or "boxes" (Dual DKP).
 
 ## Wiki Tutorials
 [Dragon Bot Wiki](https://github.com/madruk20/Dragon-Bot/wiki)
