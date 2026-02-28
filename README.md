@@ -32,9 +32,4 @@ New to Dragon Bot? Check out our comprehensive guides:
 * ⚖️ **[Auction Logic](https://github.com/madruk20/Dragon-Bot/wiki/Auctions)** — Understanding bid priorities and timers.
 * 🛡️ **[Permissions](https://github.com/madruk20/Dragon-Bot/wiki/Requirements)** — Ensuring the bot has the right access.
 
-[**View Full Wiki ➡️**](https://github.com/madruk20/Dragon-Bot/wiki/Home)
-
 ---
-
-> [!TIP]
-> **Pro-Tip:** Switch between games seamlessly without losing data. Each game maintains its own dedicated DKP database within your server.
