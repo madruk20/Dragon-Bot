@@ -19,9 +19,9 @@
 
 ## 🎮 Supported Games
 Dragon Bot comes pre-configured with class data and item tooltips for:
-* ⚔️ **EverQuest & EverQuest II**
-* 🛡️ **World of Warcraft (Retail & Classic)**
-* 🛠️ **Default Mode:** Fully customizable for any other MMORPG.
+* **EverQuest & EverQuest II**
+* **World of Warcraft (Retail & Classic)**
+* **Default Mode:** Fully customizable for any other MMORPG.
 
 ---
 
