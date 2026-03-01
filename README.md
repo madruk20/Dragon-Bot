@@ -3,7 +3,7 @@
 [![Add Dragon Bot](https://img.shields.io/badge/Add%20Dragon%20Bot-Invite-blueviolet?style=for-the-badge&logo=discord)](https://discord.com/oauth2/authorize?client_id=1130004692525658112&scope=bot)
 [![Wiki](https://img.shields.io/badge/Documentation-Wiki-green?style=for-the-badge&logo=github)](https://github.com/madruk20/Dragon-Bot/wiki/Home)
 
-**Dragon Bot** is an auction and points management system built specifically for MMORPG communities on Discord. Whether you are running a hardcore DKP guild in *EverQuest* or a casual GDKP run in *WoW Classic*, Dragon Bot automates the "paperwork" so you can stay focused on the raid.
+**Dragon Bot** is an auction and points management system built for Discord.
 
 ---
 
