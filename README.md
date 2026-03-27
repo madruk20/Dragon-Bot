@@ -1,6 +1,6 @@
 # 🐉 Dragon Bot
 
-[![Add Dragon Bot](https://img.shields.io/badge/Add%20Dragon%20Bot-Invite-blueviolet?style=for-the-badge&logo=discord)](https://discord.com/oauth2/authorize?client_id=1130004692525658112&scope=bot)
+[![Add Dragon Bot](https://img.shields.io/badge/Add%20Dragon%20Bot-Invite-blueviolet?style=for-the-badge&logo=discord)](https://discord.com/oauth2/authorize?client_id=1130004692525658112&permissions=6026014575869008&integration_type=0&scope=bot)
 [![Wiki](https://img.shields.io/badge/Documentation-Wiki-green?style=for-the-badge&logo=github)](https://github.com/madruk20/Dragon-Bot/wiki/Home)
 
 **Dragon Bot** is an auction and points management system built for Discord.
